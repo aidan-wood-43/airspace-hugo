@@ -5,7 +5,7 @@ paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
 themesDir = "../.."
-title = "Airspace | Creative Agency Hugo Template"
+title = "BWB Liners"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
