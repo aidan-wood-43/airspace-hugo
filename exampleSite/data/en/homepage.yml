@@ -37,6 +37,14 @@ portfolio:
     link: project
 service:
   enable: true
+  title: Multi-Disciplinary
+  description: A project like this isn't an individual undertaking. By completing
+    roles as part of a multi-disciplinary team we ensure the final product is more
+    than the sum of its parts.
+  service_item:
+  - icon: ''
+    name: Project Management
+    content: ''
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
