@@ -1,5 +1,5 @@
 baseURL = "bwbliners"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
@@ -13,29 +13,25 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.footer]]
+URL = "/"
+name = "Home"
+weight = "1"
+[[Languages.en.menu.footer]]
 URL = "about"
 name = "About"
-weight = 1
+weight = "2"
 [[Languages.en.menu.footer]]
 URL = "project"
 name = "Project"
-weight = 2
-[[Languages.en.menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[Languages.en.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[Languages.en.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
+weight = "3"
 [[Languages.en.menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = "4"
+[[Languages.en.menu.footer]]
+URL = "blog"
+name = "Blog"
+weight = "4"
 [[Languages.en.menu.main]]
 URL = "/"
 name = "Home"
@@ -52,22 +48,6 @@ weight = 3
 URL = "blog"
 name = "Blog"
 weight = 4
-[[Languages.en.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 5
-[[Languages.en.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "service"
-name = "Service"
-parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
@@ -154,7 +134,7 @@ logo_width = "150px"
 mobile = "0124857985320"
 multi_author = false
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.gmap]
 enable = true
