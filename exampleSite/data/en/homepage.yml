@@ -18,7 +18,7 @@ about:
     We are a multidisciplinary team of Mechanical Engineers working together as part of our fifth year group project.
 
     We aim to present a design and investigate the feasibility of the Blended Wing Body (BWB) aircraft for use as a commercial passenger and cargo transport aircraft.
-  image: ''
+  image: images/wrapper-img.png
 portfolio:
   enable: false
   bg_image: images/featue-bg.jpg
