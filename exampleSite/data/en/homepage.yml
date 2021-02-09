@@ -45,9 +45,6 @@ service:
   - icon: ''
     name: Project Management Lead
     content: Steven Munn
-  - icon: ''
-    name: Project Management
-    content: ''
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
