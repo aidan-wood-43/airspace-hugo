@@ -5,7 +5,7 @@ banner:
   bg_overlay: true
   title: BWB Liners
   content: A project investigating the feasibility of the BWB design for commercial
-    human and cargo transportation
+    passenger and cargo transportation
   button:
     enable: true
     label: LEARN MORE
