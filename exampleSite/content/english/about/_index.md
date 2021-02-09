@@ -1,6 +1,6 @@
 ---
-title: About Our Company
-description: this is meta description
+title: About BWB Liners
+description: ''
 bg_image: images/featue-bg.jpg
 
 ---
