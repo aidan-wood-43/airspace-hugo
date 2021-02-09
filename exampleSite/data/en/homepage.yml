@@ -5,22 +5,22 @@ banner:
   bg_overlay: true
   title: BWB Liners
   content: A project investigating the feasibility of the BWB design for commercial
-    human and cargo transportation
+    passenger and cargo transportation
   button:
     enable: true
-    label: Discover Our Project
+    label: LEARN MORE
     link: project
 about:
   enable: true
-  title: About Us - Demo
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: We are a multidisciplinary team of Mechanical Engineers working together
-    as part of our fifth year group project.
-  image: images/wrapper-img.png
+  title: About us
+  description: ''
+  content: |-
+    We are a multidisciplinary team of Mechanical Engineers working together as part of our fifth year group project.
+
+    We aim to present a design and investigate the feasibility of the Blended Wing Body (BWB) aircraft for use as a commercial passenger and cargo transport aircraft.
+  image: ''
 portfolio:
-  enable: true
+  enable: false
   bg_image: images/featue-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
