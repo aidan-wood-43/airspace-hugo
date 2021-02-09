@@ -8,7 +8,7 @@ banner:
     human and cargo transportation
   button:
     enable: true
-    label: Discover Our Project
+    label: LEARN MORE
     link: project
 about:
   enable: true
