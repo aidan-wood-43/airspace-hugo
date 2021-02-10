@@ -4,7 +4,6 @@ bg_image = "/images/mavericinterior.jpg"
 categories = []
 date = 2021-02-10T22:00:00Z
 description = ""
-draft = true
 image = "/images/maveric.jpg"
 tags = []
 title = "The Next Generation of Aircraft? "
