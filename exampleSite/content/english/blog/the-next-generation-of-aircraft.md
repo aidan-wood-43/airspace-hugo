@@ -1,11 +1,11 @@
 +++
 author = "Nian Lui"
 bg_image = "/images/mavericinterior.jpg"
-categories = []
+categories = ["background"]
 date = 2021-02-10T22:00:00Z
 description = ""
 image = "/images/maveric.jpg"
-tags = []
+tags = ["history", "BWB"]
 title = "The Next Generation of Aircraft? "
 type = "post"
 
@@ -14,8 +14,11 @@ We all know what an aircraft looks like. There might be many different variation
 
 As the name of the structure implies, the conventional aircraft has a tubular body for payloads, and apparent wing and tailplane structures for lift generation and stability. This configuration has been around for more than 80 years, since the development of Heinkel He 178, the first aircraft to fly with turbojet power.
 
-_![](/images/he178.jpg "First jet engine aircraft, He 178 replica at Rostock-Laage Airport")
-Above: First jet engine aircraft, He 178 replica at Rostock-Laage Airport_
+  
+![](/images/he178.jpg "First jet engine aircraft, He 178 replica at Rostock-Laage Airport")
+
+_Above: First jet engine aircraft, He 178 replica at Rostock-Laage Airport_
+
 The long history of the tube-and-wing structure made the technology for manufacturing gradually matured, the tube shape can be easily manufactured in sections, as well as extended and shortened to suit different needs for different aircraft models.
 
 Airbus Global Market Forecast predicted annual air traffic growth rate of 4.3%, and fleet to be doubled over the next 20 years. These surely proves the huge success in the commercialisation of the conventional aircraft design.
@@ -54,4 +57,4 @@ The additional structural support required for the wide fuselage can also restri
 
 Revolutionary concepts propel the development in the aviation industry, once all the barriers are overcome, BWB might be the new norm for the next generation of aviation.
 
-\[1\] \[Static Aeroelastic Optimization of Aircraft Wing with Multiple Surfaces\]([https://www.researchgate.net/publication/317338806_Static_A_roelastic_Optimization_of_Aircraft_Wing_with_Multiple_Surfaces_](https://www.researchgate.net/publication/317338806_Static_Aeroelastic_Optimization_of_Aircraft_Wing_with_Multiple_Surfaces "Static Aeroelastic Optimization of Aircraft Wing with Multiple Surfaces")_)_
+\[1\] [https://www.researchgate.net/publication/317338806_Static_A_roelastic_Optimization_of_Aircraft_Wing_with_Multiple_Surfaces](https://www.researchgate.net/publication/317338806_Static_A_roelastic_Optimization_of_Aircraft_Wing_with_Multiple_Surfaces "https://www.researchgate.net/publication/317338806_Static_A_roelastic_Optimization_of_Aircraft_Wing_with_Multiple_Surfaces")
