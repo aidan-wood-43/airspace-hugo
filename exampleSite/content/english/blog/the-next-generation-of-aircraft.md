@@ -1,5 +1,5 @@
 +++
-author = "Nian Lui"
+author = "Nian Liu"
 bg_image = "/images/mavericinterior.jpg"
 categories = ["background"]
 date = 2021-02-10T22:00:00Z
