@@ -1,7 +1,7 @@
 ---
 title: Materials
 description: Optimising the material selection for aircraft structures
-image: "/images/material-image.png"
+image: "/images/material.jpg"
 bg_image: "/images/busiecon.JPG"
 category: Technical
 information:
