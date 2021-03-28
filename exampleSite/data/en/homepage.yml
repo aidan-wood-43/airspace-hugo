@@ -42,7 +42,7 @@ service:
     roles as part of a multi-disciplinary team we ensure the final product is more
     than the sum of its parts.
   service_item:
-  - icon: ''
+  - icon: ion-ios-people-outline
     name: Project Management Lead
     content: Steven Munn
 cta:
