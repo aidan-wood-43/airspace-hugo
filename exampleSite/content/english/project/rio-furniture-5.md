@@ -1,7 +1,7 @@
 ---
 title: Soft Systems Methodology
 description: Employing SSM for a more efficient multi-disciplinary approach
-image: "/images/rich-picture.jpg"
+image: "/images/ssm.jpg"
 bg_image: "/images/busiecon.JPG"
 category: Management
 information:
