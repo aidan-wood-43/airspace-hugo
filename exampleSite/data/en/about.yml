@@ -35,9 +35,8 @@ features:
   title: We are a group of graduate engineers with multi-disciplinary skills
   feature_item:
   - icon: ion-ios-color-filter-outline
-    name: IOS App Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Team Working
+    content: 'Through regular meetings, we are ensuring project goals are met coherently '
   - icon: ion-ios-unlocked-outline
     name: App Secutity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
