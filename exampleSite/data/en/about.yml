@@ -37,6 +37,10 @@ features:
   - icon: ion-ios-color-filter-outline
     name: Team Working
     content: 'Through regular meetings, we are ensuring project goals are met coherently '
+  - icon: ion-ios-star-outline
+    name: Project Management
+    content: By assigning roles and pre-defining working structure, the aim of each
+      project phase is being identified
   - icon: ion-ios-unlocked-outline
     name: App Secutity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -51,10 +55,6 @@ features:
       tempor incididunt ut
   - icon: ion-ios-lightbulb-outline
     name: UI/UX Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-ios-star-outline
-    name: Branding
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
 testimonial:
