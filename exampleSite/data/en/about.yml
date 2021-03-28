@@ -12,7 +12,7 @@ about:
     label: Download Our Full Report
     link: "#"
   funfacts:
-  - icon: ion-ios-calendar-number-outline
+  - icon: ion:calendar-number-outline
     name: Days of Work
     count: "188"
   - icon: ion-ios-flask-outline
