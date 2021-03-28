@@ -12,24 +12,24 @@ about:
     label: Download Our Full Report
     link: "#"
   funfacts:
-  - icon: ion-ios-calendar-outline
-    name: Days of Work
-    count: "188"
-  - icon: ion-ios-flask-outline
-    name: Completed Projects
-    count: "349"
-  - icon: ion-ios-flame-outline
-    name: Lines Of Code
-    count: "1392"
-  - icon: ion-ios-monitor-outline
-    name: Hours Simulation Time
-    count: "10"
-  - icon: ion-ios-chatboxes-outline
-    name: Satisfied Customer
-    count: "75"
   - icon: ion-ios-body-outline
     name: Team Members
     count: "6"
+  - icon: ion-ios-calendar-outline
+    name: Days of Work
+    count: "188"
+  - icon: ion-ios-monitor-outline
+    name: Hours Simulation Time
+    count: "10"
+  - icon: ion-ios-flame-outline
+    name: Lines Of Code
+    count: "1392"
+  - icon: ion-ios-flask-outline
+    name: Completed Projects
+    count: "349"
+  - icon: ion-ios-chatboxes-outline
+    name: Satisfied Customer
+    count: "75"
 features:
   enable: true
   title: We are indepented Design & Development Agency
