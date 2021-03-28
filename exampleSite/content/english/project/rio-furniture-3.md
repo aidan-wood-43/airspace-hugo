@@ -1,7 +1,7 @@
 ---
 title: Propulsion
 description: Researching the cutting-edge propulsion systems
-image: "/images/propulsion.JPG"
+image: "/images/prop.jpg"
 bg_image: "/images/busiecon.JPG"
 category: Technical
 information:
