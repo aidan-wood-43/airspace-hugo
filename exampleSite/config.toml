@@ -133,6 +133,7 @@ logo = "images/logo.png"
 logo_width = "150px"
 mobile = "0124857985320"
 multi_author = false
+social = []
 [params.cookies]
 enable = false
 expire_days = 2
@@ -181,21 +182,3 @@ enable = true
 preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
-[[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
-link = "#"
