@@ -54,7 +54,7 @@ cta:
     than the sum of its parts.
   button:
     enable: true
-    label: Tell Us Your Story
+    label: Tell Us What You Think
     link: contact
 funfacts:
   enable: false
