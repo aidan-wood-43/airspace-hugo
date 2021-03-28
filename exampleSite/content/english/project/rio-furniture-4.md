@@ -1,25 +1,16 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
-draft: false
-image : "images/portfolio/work4.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "UI/UX Design"
+title: Structures
+description: Investigating the mechanical properties of fuselage and wing structures
+image: "/images/top-fea.png"
+bg_image: images/featue-bg.jpg
+category: Technical
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
----
+- label: What We Did
+  info: Website Redesign
+- label: Software
+  info: ANSYS 17.1
 
+---
 ## Behance Website Redesign
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
