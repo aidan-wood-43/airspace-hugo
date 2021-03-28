@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/busiecon.jpg
   bg_overlay: true
   title: BWB Liners
   content: A project investigating the feasibility of the BWB design for commercial
