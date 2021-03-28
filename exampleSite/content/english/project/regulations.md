@@ -2,7 +2,7 @@
 bg_image = "/images/busiecon.JPG"
 category = "Regulation"
 description = "Ensuring the certification of airworthiness"
-image = "/images/flight-path.jpg"
+image = "/images/regulation.jpg"
 title = "Regulations"
 [[information]]
 info = "Website Redesign"
