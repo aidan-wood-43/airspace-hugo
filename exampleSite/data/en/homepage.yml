@@ -21,8 +21,8 @@ about:
   image: images/wrapper-img.png
 portfolio:
   enable: true
-  bg_image: images/econ2-bg.jpg
-  title: We believe in the future of aviation
+  bg_image: images/econ2-bg3.jpg
+  title: We believe in the future of aviation.
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
     condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
