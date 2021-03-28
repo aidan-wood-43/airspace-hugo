@@ -2,7 +2,7 @@
 title: Aerodynamics
 description: Investigating the Lift/Drag Characteristic of BWB Aircraft
 image: "/images/aero-mesh.PNG"
-bg_image: images/featue-bg.jpg
+bg_image: "/images/busiecon.JPG"
 category: Technical
 information:
 - label: What We Did
