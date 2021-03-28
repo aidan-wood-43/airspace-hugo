@@ -3,7 +3,7 @@ title: Economics
 description: Analysing the cost viability of fleet operations
 image: "/images/aea-direct-operating-cost-contribution-normal-fuel-price-long-range-a380.png"
 bg_image: "/images/busiecon.JPG"
-category: UI/UX Design
+category: Economics
 information:
 - label: What We Did
   info: Website Redesign
