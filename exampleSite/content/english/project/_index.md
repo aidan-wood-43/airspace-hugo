@@ -1,6 +1,7 @@
 ---
-title: "Our Project"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Our Project
+description: Bringing all aspects of BWB aircraft design through Soft Systems Methodology
+  (SSM)
+bg_image: "/images/busiecon.JPG"
+
 ---
