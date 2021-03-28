@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/busiecon.JPG"
-category = "Technical"
+category = "Management"
 description = "Ensuring the certification of airworthiness"
 draft = true
 image = "/images/flight-path.jpg"
