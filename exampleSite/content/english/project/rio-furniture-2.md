@@ -1,13 +1,13 @@
 ---
 title: Aerodynamics
 description: Investigating the Lift/Drag Characteristic of BWB Aircraft
-image: "/images/aero-image.jpg"
+image: "/images/aero-mesh.PNG"
 bg_image: images/featue-bg.jpg
-category: Illustration
+category: Technical
 information:
 - label: What We Did
   info: Website Redesign
-- label: Software
+- label: Tools
   info: weeArchie HPC, STAR CCM+
 
 ---
