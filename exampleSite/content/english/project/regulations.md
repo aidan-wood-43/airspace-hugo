@@ -1,9 +1,9 @@
 +++
 bg_image = "/images/busiecon.JPG"
 category = "Technical"
-description = "Investigating the mechanical properties of fuselage and wing structures"
+description = "Ensuring the certification of airworthiness"
 draft = true
-image = "/images/top-fea.png"
+image = "/images/flight-path.jpg"
 title = "Regulations"
 [[information]]
 info = "Website Redesign"
