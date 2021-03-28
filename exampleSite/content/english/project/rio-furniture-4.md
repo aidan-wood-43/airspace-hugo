@@ -1,7 +1,7 @@
 ---
 title: Structures
 description: Investigating the mechanical properties of fuselage and wing structures
-image: "/images/top-fea.png"
+image: "/images/structure.jpg"
 bg_image: "/images/busiecon.JPG"
 category: Technical
 information:
