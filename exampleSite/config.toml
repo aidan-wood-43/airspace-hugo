@@ -123,12 +123,12 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "BWBLiners"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "bwbliners@outlook.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Our Homes, Scotland"
 logo = "images/logo.png"
 logo_width = "150px"
 mobile = "0124857985320"
