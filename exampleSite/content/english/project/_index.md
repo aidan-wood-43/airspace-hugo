@@ -5,4 +5,4 @@ description: Bringing all aspects of BWB aircraft design through Soft Systems Me
 bg_image: "/images/busiecon.JPG"
 
 ---
-Please click on each title to view more details.
+Please click on each project tile to view more details.
