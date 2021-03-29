@@ -24,9 +24,6 @@ about:
   - icon: ion-ios-flame-outline
     name: Lines of Code
     count: "1899"
-  - icon: ion-ios-flask-outline
-    name: Completed Projects
-    count: "349"
   - icon: ion-ios-chatboxes-outline
     name: Supervisor Meetings
     count: "16"
@@ -35,13 +32,9 @@ features:
   title: We are a group of graduate engineers with multi-disciplinary skills
   feature_item:
   - icon: ion-ios-lightbulb-outline
-    name: UI/UX Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-ios-color-filter-outline
-    name: Team Working
-    content: 'Through the employment of Soft Systems Methodology, we are ensuring
-      project goals are met coherently '
+    name: Coding
+    content: By implementing various coding environments, we are reaching deeper levels
+      of numerical analysis
   - icon: ion-ios-star-outline
     name: Project Management
     content: By assigning roles and pre-defining working structure, the aim of each
@@ -58,6 +51,10 @@ features:
     name: Communication
     content: We are making use of professional tools such as Slack and Zoom, to communicate
       relevant information efficiently
+  - icon: ion-ios-color-filter-outline
+    name: Team Working
+    content: 'Through the employment of Soft Systems Methodology, we are ensuring
+      project goals are met coherently '
 testimonial:
   enable: true
 mission_vision:
