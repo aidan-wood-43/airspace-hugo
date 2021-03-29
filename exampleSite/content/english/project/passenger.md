@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/busiecon.JPG"
-category = "Technical"
+category = "Configuration"
 description = "Two seating configurations bringing Economy and Business experiences"
 image = "/images/passenger.jpg"
 title = "Passenger"
