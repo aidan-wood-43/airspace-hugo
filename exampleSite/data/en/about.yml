@@ -41,10 +41,10 @@ features:
     name: Project Management
     content: By assigning roles and pre-defining working structure, the aim of each
       project phase is being identified
-  - icon: ion-clock
+  - icon: ion-ios-clock-outline
     name: Time Management
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: We are managing our time and tasks effectively as a team using Gantt
+      Chart
   - icon: ion-ios-game-controller-b-outline
     name: Games Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
