@@ -59,10 +59,9 @@ service:
     name: Web Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-paper-airplane
+    name: Improved Aerodynamics
+    content: Better aerodynamic characteristic, <br>up to 20.8 lift-to-drag ratio
   - icon: ion-planet
     name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
