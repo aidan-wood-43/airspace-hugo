@@ -2,7 +2,6 @@
 bg_image = "/images/busiecon.JPG"
 category = "Configuration"
 description = "Maximising carrying capacity with passenger-cargo ability"
-draft = true
 image = "/images/structure.jpg"
 title = "Cargo"
 [[information]]
