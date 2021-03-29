@@ -33,4 +33,5 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/english/blog/systems-thinking-difference-between-hard-and-soft-systems.md
 - exampleSite/content/english/blog/the-next-generation-of-aircraft.md
