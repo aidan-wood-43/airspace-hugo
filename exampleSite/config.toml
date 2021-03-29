@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "BWB Liners"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [BWBLiners](https://www.strath.ac.uk/staff/afsarmohammeddr/) All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
