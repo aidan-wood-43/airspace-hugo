@@ -2,7 +2,6 @@
 bg_image = "/images/busiecon.JPG"
 category = "Technical"
 description = "Two seating configurations bringing Economy and Business experiences"
-draft = true
 image = "/images/structure.jpg"
 title = "Passenger"
 [[information]]
