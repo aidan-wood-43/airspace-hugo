@@ -11,6 +11,7 @@ title = "Soft Systems Methodology"
 type = "post"
 
 +++
+Following on from the Systems Thinking blog, expansion into the process of Soft Systems Methodology (SSM) is given with how it was applied to our project. Modern SSM is the brain child of Dr Peter Checkland, which has evolved through the decades from the 7 Step Model to the 4 Activities model, the latter which was implemented in the feasibility study.
 
 ##### **The 7 Steps Model**
 
