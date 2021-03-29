@@ -52,7 +52,8 @@ service:
       across the globe
   - icon: ion-plane
     name: Structural Integrity
-    content: 'Optimised structural-material integration enabling mass saving '
+    content: Optimised structural-material integration enabling mass saving of up
+      to 29.8 tonnes
   - icon: ion-cube
     name: Cargo Capacity
     content: 31.8% More volume carrying cargo compared to the current largest freight
