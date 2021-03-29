@@ -2,7 +2,7 @@
 bg_image = "/images/busiecon.JPG"
 category = "Configuration"
 description = "Maximising carrying capacity <br> with passenger-cargo ability"
-image = "/images/structure.jpg"
+image = "/images/cargo.jpg"
 title = "Cargo"
 [[information]]
 info = "Website Redesign"
