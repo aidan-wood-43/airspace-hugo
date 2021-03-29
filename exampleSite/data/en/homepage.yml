@@ -33,7 +33,7 @@ portfolio:
     tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
   button:
     enable: true
-    label: View Works
+    label: View Our Work
     link: project
 service:
   enable: true
