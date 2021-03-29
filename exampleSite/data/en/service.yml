@@ -40,6 +40,10 @@ service:
   - icon: ion-leaf
     name: Reduced Emission
     content: 18% Carbon dioxide emission reduction per nautical mile per passenger
+  - icon: ion-earth
+    name: Long Range
+    content: Providing a flight range of up to 10759 km, satisfying most long haul
+      flight services across the global
   - icon: ion-coffee
     name: Branding
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -61,10 +65,6 @@ service:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-earth
     name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
