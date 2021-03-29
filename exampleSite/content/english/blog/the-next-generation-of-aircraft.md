@@ -14,7 +14,6 @@ We all know what an aircraft looks like. There might be many different variation
 
 As the name of the structure implies, the conventional aircraft has a tubular body for payloads, and apparent wing and tailplane structures for lift generation and stability. This configuration has been around for more than 80 years, since the development of Heinkel He 178, the first aircraft to fly with turbojet power.
 
-  
 ![](/images/he178.jpg "First jet engine aircraft, He 178 replica at Rostock-Laage Airport")
 
 _Above: First jet engine aircraft, He 178 replica at Rostock-Laage Airport_
@@ -56,5 +55,7 @@ _Above: MAVERIC interior, Airbus_
 The additional structural support required for the wide fuselage can also restrict the freedom of cabin arrangement to some degree, this has also led to the idea of possibly cabin segmentation to better utilise the space for higher profitability.
 
 Revolutionary concepts propel the development in the aviation industry, once all the barriers are overcome, BWB might be the new norm for the next generation of aviation.
+
+References
 
 \[1\] [https://www.researchgate.net/publication/317338806_Static_A_roelastic_Optimization_of_Aircraft_Wing_with_Multiple_Surfaces](https://www.researchgate.net/publication/317338806_Static_A_roelastic_Optimization_of_Aircraft_Wing_with_Multiple_Surfaces "https://www.researchgate.net/publication/317338806_Static_A_roelastic_Optimization_of_Aircraft_Wing_with_Multiple_Surfaces")
