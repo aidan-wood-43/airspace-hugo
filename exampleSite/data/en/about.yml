@@ -41,8 +41,8 @@ features:
     name: Project Management
     content: By assigning roles and pre-defining working structure, the aim of each
       project phase is being identified
-  - icon: ion-ios-unlocked-outline
-    name: App Secutity
+  - icon: ion-clock
+    name: Time Management
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-game-controller-b-outline
