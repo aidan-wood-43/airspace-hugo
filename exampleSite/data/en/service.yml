@@ -42,8 +42,7 @@ service:
     content: Mach 0.85 cruising speed
   - icon: ion-social-usd
     name: Cost Saving
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: 12.5% less spent on direct operating cost compared to conventional aircraft
   - icon: ion-leaf
     name: Reduced Emission
     content: 18% Carbon dioxide emission reduction per nautical mile per passenger
