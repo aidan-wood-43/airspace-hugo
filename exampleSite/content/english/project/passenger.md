@@ -2,7 +2,7 @@
 bg_image = "/images/busiecon.JPG"
 category = "Configuration"
 description = "Two seating configurations bringing Economy and Business experiences"
-image = "/images/passenger.jpg"
+image = "/images/passenger2.jpg"
 title = "Passenger"
 [[information]]
 info = "Website Redesign"
