@@ -57,7 +57,7 @@ service:
       tempor incididunt ut
   - icon: ion-cube
     name: Cargo Capacity
-    content: 31.8% More volume carrying cargo
+    content: 31.8% More volume carrying cargo compared to the current largest freight
   - icon: ion-ios-gear
     name: GE90 Engine
     content: Commercially available engine choice, smooth entry to service
