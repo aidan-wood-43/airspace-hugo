@@ -131,7 +131,7 @@ google_analitycs_id = ""
 location = "Our Homes, Scotland"
 logo = "images/logo.png"
 logo_width = "150px"
-mobile = "0124857985320"
+mobile = ""
 multi_author = false
 social = []
 [params.cookies]
