@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/busiecon.jpg
   bg_overlay: true
-  title: BWB Liners
+  title: BWB Liners <br> Blended Wing Body Aircraft
   content: A project investigating the feasibility of the BWB design for commercial
     passenger and cargo transportation using the Soft System Methodology
   button:
