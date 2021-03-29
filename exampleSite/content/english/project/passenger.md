@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/busiecon.JPG"
 category = "Technical"
-description = "Investigating the mechanical properties of fuselage and wing structures"
+description = "Two seating configurations bringing Economy and Business experiences"
 draft = true
 image = "/images/structure.jpg"
 title = "Passenger"
