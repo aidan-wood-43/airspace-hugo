@@ -14,11 +14,11 @@ about:
   enable: true
   title: About us
   description: ''
-  content: "We are a multi-disciplinary team of Mechanical Engineers studying towards
+  content: "We are a multi-disciplinary team of 6 Mechanical Engineers studying towards
     MEng degree at the University of Strathclyde. \n\nWe are working together as part
-    of the final year group project, aiming to present a design and investigate the
+    of the 5th year group project, aiming to present a design and investigate the
     feasibility of the Blended Wing Body (BWB) aircraft for use as a commercial passenger
-    and cargo transport aircraft."
+    and cargo transport aircraft, through the utilisation of Soft Systems Methodology."
   image: images/wrapper-img.png
 portfolio:
   enable: true
