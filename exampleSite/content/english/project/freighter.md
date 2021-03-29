@@ -1,10 +1,10 @@
 +++
 bg_image = "/images/busiecon.JPG"
-category = "Technical"
-description = "Two seating configurations bringing Economy and Business experiences"
+category = "Configuration"
+description = "Maximising carrying capacity with passenger-cargo ability"
 draft = true
 image = "/images/structure.jpg"
-title = "Freighter"
+title = "Cargo"
 [[information]]
 info = "Website Redesign"
 label = "What We Did"
