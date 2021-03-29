@@ -4,7 +4,6 @@ bg_image = "/images/systems-thinking.jpg"
 categories = ["Systems Thinking"]
 date = 2021-02-17T12:00:00Z
 description = ""
-draft = true
 image = "/images/systems-thinking.jpg"
 tags = ["Soft Systems Methodology", "Systems Thinking"]
 title = "Systems Thinking: Difference Between Hard and Soft Systems"
