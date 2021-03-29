@@ -124,7 +124,7 @@ unsafe = true
 home = ["HTML"]
 [params]
 author = "BWBLiners"
-contact_form_action = "#"
+contact_form_action = "mailto:bwbliners@outlook.com"
 description = "This is meta description"
 email = "bwbliners@outlook.com"
 google_analitycs_id = ""
