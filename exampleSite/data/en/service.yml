@@ -39,7 +39,7 @@ service:
   service_item:
   - icon: ion-speedometer
     name: Standard Cruise
-    content: Mach 0.85 cruising speed
+    content: Mach 0.85 cruising speed, 35000 ft cruising altitude
   - icon: ion-social-usd
     name: Cost Saving
     content: 12.5% less spent on direct operating cost compared to conventional aircraft
