@@ -48,15 +48,15 @@ service:
     name: Start Up
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-ios-gear
-    name: GE90 Engine
-    content: Commercially available engine choice, smooth entry to service
   - icon: ion-cube
     name: Cargo Capacity
     content: 31.8% More volume carrying cargo
   - icon: ion-speedometer
     name: Standard Cruise
     content: Mach 0.85 cruising speed
+  - icon: ion-ios-gear
+    name: GE90 Engine
+    content: Commercially available engine choice, smooth entry to service
   - icon: ion-paper-airplane
     name: Improved Aerodynamics
     content: Better aerodynamic characteristic, up to 20.8 lift-to-drag ratio
