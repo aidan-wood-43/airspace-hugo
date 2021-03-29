@@ -43,7 +43,7 @@ service:
   - icon: ion-earth
     name: Long Range
     content: Flight range of up to 10759 km, satisfying most long haul flight services
-      across the global
+      across the globe
   - icon: ion-plane
     name: Start Up
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
