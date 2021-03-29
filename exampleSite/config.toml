@@ -53,10 +53,10 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [Languages.fr]
-contentDir = "content/french"
+contentDir = "content/chinese"
 copyright = "Copyright &copy; 2020 [BWBLiners](https://www.strath.ac.uk/staff/afsarmohammeddr/) All Rights Reserved"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = "zh-cn"
+languageName = "Ch"
 weight = 2
 [[Languages.fr.menu.footer]]
 URL = "about"
