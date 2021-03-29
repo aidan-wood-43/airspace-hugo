@@ -51,8 +51,8 @@ features:
       tempor incididunt ut
   - icon: ion-ios-chatbubble-outline
     name: Communication
-    content: We are making use of professional tools such as Slack and Zoom, to actively
-      communicate relevant information
+    content: We are making use of professional tools such as Slack and Zoom, to communicate
+      relevant information efficiently
   - icon: ion-ios-lightbulb-outline
     name: UI/UX Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
