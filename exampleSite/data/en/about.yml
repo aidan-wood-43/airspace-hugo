@@ -34,6 +34,10 @@ features:
   enable: true
   title: We are a group of graduate engineers with multi-disciplinary skills
   feature_item:
+  - icon: ion-ios-lightbulb-outline
+    name: UI/UX Design
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
   - icon: ion-ios-color-filter-outline
     name: Team Working
     content: 'Through the employment of Soft Systems Methodology, we are ensuring
@@ -54,10 +58,6 @@ features:
     name: Communication
     content: We are making use of professional tools such as Slack and Zoom, to communicate
       relevant information efficiently
-  - icon: ion-ios-lightbulb-outline
-    name: UI/UX Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
 testimonial:
   enable: true
 mission_vision:
