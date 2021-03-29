@@ -60,8 +60,8 @@ service:
   - icon: ion-paper-airplane
     name: Improved Aerodynamics
     content: Better aerodynamic characteristic, up to 20.8 lift-to-drag ratio
-  - icon: ion-planet
-    name: Brand Identity
+  - icon: ion-social-usd
+    name: Cost Saving
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
 cta:
