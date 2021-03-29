@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  image: images/company/about.jpg
+  image: images/econ2.jpg
   title: We strive to be the best and <br> make awesome work.
   content: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
@@ -20,7 +20,7 @@ about:
     count: "188"
   - icon: ion-ios-monitor-outline
     name: Hours of Simulation
-    count: "10"
+    count: "220"
   - icon: ion-ios-flame-outline
     name: Lines of Code
     count: "1899"

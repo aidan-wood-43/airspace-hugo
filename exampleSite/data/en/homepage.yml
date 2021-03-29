@@ -47,7 +47,7 @@ service:
     content: Steven Munn
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: images/passenger.jpg
   title: We are a multi-disciplinary team.
   content: A project like this isn't an individual undertaking. <br>By completing
     roles as part of a multi-disciplinary team we ensure the final product is more
