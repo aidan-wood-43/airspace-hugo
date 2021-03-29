@@ -31,10 +31,6 @@ features:
   enable: true
   title: We are a group of graduate engineers with multi-disciplinary skills
   feature_item:
-  - icon: ion-ios-lightbulb-outline
-    name: Coding
-    content: By implementing various coding environments, we are reaching deeper levels
-      of numerical analysis
   - icon: ion-ios-star-outline
     name: Project Management
     content: By assigning roles and pre-defining working structure, the aim of each
@@ -43,10 +39,14 @@ features:
     name: Time Management
     content: We are managing our time and tasks effectively as a team using Gantt
       Chart
-  - icon: ion-ios-game-controller-b-outline
-    name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-ios-lightbulb-outline
+    name: Coding
+    content: By implementing various coding environments, we are reaching deeper levels
+      of numerical analysis
+  - icon: ion-ios-analytics-outline
+    name: Simulation
+    content: Visualising pressure field and stress concentration, achieving better
+      understanding of our designs
   - icon: ion-ios-chatbubble-outline
     name: Communication
     content: We are making use of professional tools such as Slack and Zoom, to communicate
