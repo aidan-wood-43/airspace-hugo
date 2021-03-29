@@ -36,7 +36,8 @@ features:
   feature_item:
   - icon: ion-ios-color-filter-outline
     name: Team Working
-    content: 'Through regular meetings, we are ensuring project goals are met coherently '
+    content: 'Through the employment of Soft Systems Methodology, we are ensuring
+      project goals are met coherently '
   - icon: ion-ios-star-outline
     name: Project Management
     content: By assigning roles and pre-defining working structure, the aim of each
