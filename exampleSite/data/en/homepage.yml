@@ -76,6 +76,18 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
+  - name: ''
+    image: ''
+    designation: ''
+    content: ''
+  - name: Lewis McBride
+    image: ''
+    designation: Technical Manager / Structures Lead
+    content: ''
+  - name: Craig Melrose
+    image: ''
+    designation: Client Relations / Propulsion Lead
+    content: ''
   - name: Steven Munn
     image: images/clients/avater-1.jpg
     designation: Team Leader / Aerodynamic Lead
