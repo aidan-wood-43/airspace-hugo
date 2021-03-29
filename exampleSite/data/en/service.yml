@@ -44,6 +44,13 @@ service:
     name: Long Range
     content: Flight range of up to 10759 km, satisfying most long haul flight services
       across the global
+  - icon: ion-plane
+    name: Start Up
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-gear
+    name: GE90 Engine
+    content: Commercially available engine choice, <br> smooth entry to service
   - icon: ion-coffee
     name: Branding
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -56,13 +63,6 @@ service:
     name: App Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-plane
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-ios-gear
-    name: Engine
-    content: Commercially available engine choice, <br> smooth entry to service
   - icon: ion-planet
     name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
