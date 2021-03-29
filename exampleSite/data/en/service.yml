@@ -42,8 +42,8 @@ service:
     content: 18% Carbon dioxide emission reduction per nautical mile per passenger
   - icon: ion-earth
     name: Long Range
-    content: Providing a flight range of up to 10759 km, satisfying most long haul
-      flight services across the global
+    content: Flight range of up to 10759 km, satisfying most long haul flight services
+      across the global
   - icon: ion-coffee
     name: Branding
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
