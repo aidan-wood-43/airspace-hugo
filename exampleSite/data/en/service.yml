@@ -55,10 +55,9 @@ service:
     name: Branding
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-compass
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-speedometer
+    name: Standard Cruise
+    content: Mach 0.85 cruising speed
   - icon: ion-paper-airplane
     name: Improved Aerodynamics
     content: Better aerodynamic characteristic, up to 20.8 lift-to-drag ratio
