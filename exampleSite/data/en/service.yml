@@ -51,9 +51,8 @@ service:
     content: Flight range of up to 10759 km, satisfying most long haul flight services
       across the globe
   - icon: ion-plane
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Structural Integrity
+    content: 'Optimised structural-material integration enabling mass saving '
   - icon: ion-cube
     name: Cargo Capacity
     content: 31.8% More volume carrying cargo compared to the current largest freight

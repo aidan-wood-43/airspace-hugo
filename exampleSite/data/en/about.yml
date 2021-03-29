@@ -19,11 +19,11 @@ about:
     name: Days of Work
     count: "188"
   - icon: ion-ios-monitor-outline
-    name: Hours Simulation Time
+    name: Hours of Simulation
     count: "10"
   - icon: ion-ios-flame-outline
-    name: Lines Of Code
-    count: "1392"
+    name: Lines of Code
+    count: "1899"
   - icon: ion-ios-flask-outline
     name: Completed Projects
     count: "349"
