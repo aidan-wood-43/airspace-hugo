@@ -37,6 +37,9 @@ service:
   description: Breaking through the limitation of conventional aircraft, <br> pioneering
     the future of carbon net-zero industry
   service_item:
+  - icon: ion-leaf
+    name: Reduced Emission
+    content: 18% Carbon dioxide emission reduction per nautical mile per passenger
   - icon: ion-coffee
     name: Branding
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -55,10 +58,6 @@ service:
       tempor incididunt ut
   - icon: ion-headphone
     name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-leaf
-    name: Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-planet
