@@ -76,12 +76,10 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
-  - name: Raymond Roy
+  - name: Steven Munn
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: Team Leader / Aerodynamic Lead
+    content: I'm in my 5th Year studying MEng Aero-Mechanical Engineering student.
   - name: Randi Renin
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
