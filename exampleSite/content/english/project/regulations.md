@@ -17,4 +17,4 @@ An initial validation study was performed considering a single class A380 config
 
 Applying the simulation to the proposed single-class BWB configuration (604 seats), complete egress is observed to be achieved on average in 55 seconds. This is significantly below the requirements of CS-25, but is longer than the egress period for the larger 868 seat A380. The BWB evacuation simulation is shown in the gif:
 
-![](/images/evac-bwb2.gif)
+![](/images/evac-bwb3.gif)
