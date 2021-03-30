@@ -100,9 +100,10 @@ funfacts:
     content: Current 5th year Aero-Mech student at Strathclyde, studying toward a
       Master's degree.
   - name: Toni Barr
-    image: images/clients/avater-1.jpg
+    image: "/images/toni.jpg"
     designation: Regulatory Manager / Legal Assessor
-    content: I'm also in my 5th year MEng Aero-Mechanical Engineering course.
+    content: Fifth year Masters aero-mechanical engineering student at the University
+      of Strathclyde.
   - name: Aidan Wood
     image: ''
     designation: Administrator / Materials Lead
