@@ -18,6 +18,8 @@ For ensuring the new BWB concept is profitable from both an aircraft manufacture
 2. The Direct Operating Cost (DOC)
    * The AEA (Association of European Airlines) model
 
+***
+
 ### 1. Development and manufacturing costs
 
 ![](/images/1-east-lake-production-cost.jpg)
@@ -26,12 +28,18 @@ Due to the significant weight and thrust savings, overall production costs are r
 
 ![](/images/proj-econ1.JPG)
 
+***
+
 ### 2. Direct Operating Cost (DOC)
 
 ![](/images/3-aea-doc.jpg)
 
 A large percentage of the DOC for airlines is fuel costs. With high lift-to-drag ratio, the BWB encapsulates high fuel efficiency characteristics.
 
+DOC per nm-pax ($) for London-Glasgow Route:
+
 ![](/images/proj-econ2.JPG "DOC per nm-pax ($) for London-Glasgow Route")
+
+DOC per nm-pax ($) for London-Shanghai Route:
 
 ![](/images/proj-econ3.JPG "DOC per nm-pax ($) for London-Shanghai Route")
