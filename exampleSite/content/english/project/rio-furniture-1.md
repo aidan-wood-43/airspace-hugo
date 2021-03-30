@@ -5,8 +5,6 @@ image: "/images/econ.jpg"
 bg_image: "/images/busiecon.JPG"
 category: Economics
 information:
-- label: What We Did
-  info: Website Redesign
 - label: Software
   info: MATLAB
 
