@@ -19,7 +19,7 @@ about:
     of the 5th year group project, aiming to present a design and investigate the
     feasibility of the Blended Wing Body (BWB) aircraft for use as a commercial passenger
     and cargo transport aircraft, through the utilisation of Soft Systems Methodology."
-  image: "/images/passenger-long.JPG"
+  image: "/images/passenger-square.jpg"
 portfolio:
   enable: true
   bg_image: images/econ2-bg3.jpg
