@@ -9,7 +9,7 @@ information:
   info: MATLAB
 
 ---
-## Maximising the Profitability of Airline
+## Maximising the Profitability of Airlines
 
 For ensuring the new BWB concept is profitable from both an aircraft manufacturer's and airline's perspective, 2 cost parameters are being considered using their suitable evaluation models through each design iterations:
 
@@ -21,6 +21,10 @@ For ensuring the new BWB concept is profitable from both an aircraft manufacture
 ### 1. Development and manufacturing costs
 
 ![](/images/1-east-lake-production-cost.jpg)
+
+Due to the significant weight and thrust savings, overall production costs are reduced, further driving down the required acquisition cost for airlines.
+
+![](/images/proj-econ1.JPG)
 
 ### 2. Direct Operating Cost (DOC)
 
