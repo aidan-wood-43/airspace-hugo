@@ -88,7 +88,7 @@ funfacts:
     designation: Technical Manager / Structures Lead
     content: ''
   - name: Craig Melrose
-    image: images/craig
+    image: "/images/craig.jpg"
     designation: Client Relations / Propulsion Lead
     content: ''
   - name: Steven Munn
