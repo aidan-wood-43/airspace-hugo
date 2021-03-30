@@ -12,7 +12,7 @@ about:
   button:
     enable: true
     label: Download Our Full Report
-    link: "/images/group-o-final-group-project-submission.pdf"
+    link: https://strath-my.sharepoint.com/:b:/g/personal/aidan_wood_2016_uni_strath_ac_uk/EcFkWQFsY9FCnmhuuwhoTcgB_vdx5USYxc8F9XoP5tAl-g?e=rb5eYN
   funfacts:
   - icon: ion-ios-body-outline
     name: Team Members
