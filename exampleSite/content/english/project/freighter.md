@@ -5,10 +5,7 @@ description = "Maximising carrying capacity with passenger-cargo ability"
 image = "/images/cargo.jpg"
 title = "Cargo"
 [[information]]
-info = "Website Redesign"
-label = "What We Did"
-[[information]]
-info = "ANSYS 17.1"
+info = "Solidworks"
 label = "Software"
 
 +++
