@@ -91,7 +91,12 @@ funfacts:
   - name: Lewis McBride
     image: "/images/lewis.jpg"
     designation: Technical Manager / Structures Lead
-    content: I love planes.
+    content: "5th Year Meng Mechanical Engineering student at the University of Strathclyde.
+      \ Previously undertaking a dissertation project to conduct “A parametric study
+      on the effects of particle size on erosion rates within pipe elbows” using Computational
+      Fluid Dynamics. \n\nAcademically I have interests in Finite Element Analysis,
+      Pressurised systems, and Nuclear power systems. Out with academia I enjoy hiking,
+      football, and history."
   - name: Craig Melrose
     image: "/images/craig.jpg"
     designation: Client Relations / Propulsion Lead
