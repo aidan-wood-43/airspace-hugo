@@ -5,7 +5,7 @@ description = "Two seating configurations bringing Economy and Business experien
 image = "/images/passenger.jpg"
 title = "Passenger"
 [[information]]
-info = "ANSYS 17.1"
+info = "Solidworks"
 label = "Software"
 
 +++
