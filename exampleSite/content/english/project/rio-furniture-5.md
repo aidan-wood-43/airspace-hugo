@@ -5,6 +5,14 @@ image: "/images/ssm.jpg"
 bg_image: "/images/busiecon.JPG"
 category: Management
 information:
+- info: 'The 4 Activities model is the current favoured expression of Soft Systems
+    Methdology, which has been in continous development by Peter Checkland for the
+    past 40 years. Originally expressed in the form of The 7 Steps model, application
+    of the methodology through diverse industry applications lead to the evolution
+    to a more flexible model: The 4 Actvities model. The 4 Activities model essentially
+    encapsulates all seven steps previously described in a broader and more relaxed
+    format, which better facilitates the ever-changing nature of the problems being
+    tackled.  '
 - label: Approach
   info: The 4 Activities Model
 
