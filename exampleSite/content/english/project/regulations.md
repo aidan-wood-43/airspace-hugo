@@ -10,3 +10,5 @@ label = "Software"
 
 +++
 ## Abiding by EASA CS-25, Ensuring the Industry Standards are Met
+
+![](/images/evac1-r.gif)
