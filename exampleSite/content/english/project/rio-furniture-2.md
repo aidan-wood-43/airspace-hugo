@@ -5,8 +5,6 @@ image: "/images/aero.jpg"
 bg_image: "/images/busiecon.JPG"
 category: Technical
 information:
-- label: What We Did
-  info: Website Redesign
 - label: Tools
   info: weeArchie HPC, STAR CCM+
 
