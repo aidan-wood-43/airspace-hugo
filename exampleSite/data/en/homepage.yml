@@ -86,10 +86,11 @@ funfacts:
   - name: Lewis McBride
     image: ''
     designation: Technical Manager / Structures Lead
-    content: |-
-      A hard working, driven and enthusiastic master’s year student at the University of Strathclyde studying towards a degree in Mechanical engineering. I am a results driven individual and have achieved highly throughout my University studies, achieving a grade of distinction, and being added to the dean’s list in every year of my studies so far.
-
-      Although Interested in all aspects of engineering work, I have particular interest in computational fluid dynamics, Finite element analysis and design work. Gathering experience in these fields through my dissertation and other projects undertaken throughout my studies.
+    content: "A hard working, driven and enthusiastic master’s year student at the
+      University of Strathclyde studying towards a degree in Mechanical engineering.
+      \n\nAlthough Interested in all aspects of engineering work, I have particular
+      interest in computational fluid dynamics, Finite element analysis and design
+      work. "
   - name: Craig Melrose
     image: "/images/craig.jpg"
     designation: Client Relations / Propulsion Lead
