@@ -80,7 +80,7 @@ funfacts:
     count: "200"
   testimonial_slider:
   - name: Nian Liu
-    image: ''
+    image: "/images/nian.jpg"
     designation: Web Designer / Economics Lead
     content: ''
   - name: Lewis McBride
