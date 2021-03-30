@@ -1,10 +1,10 @@
 +++
 author = "Toni Barr"
-bg_image = "/images/project-activity-model.jpg"
+bg_image = "/images/4-activities.jpg"
 categories = ["Systems Thinking"]
 date = 2021-02-24T12:00:00Z
 description = ""
-image = "/images/7-steps-model.jpg"
+image = "/images/project-activity-model.jpg"
 tags = ["Systems Thinking", "Soft Systems Methodology"]
 title = "Soft Systems Methodology"
 type = "post"
@@ -84,6 +84,8 @@ For creating a purposeful activity model, Checkland suggested the following logi
 ![](/images/checkland-activity-model.jpg)
 
 Figure 3. Checklands logical procedure \[1\].
+
+Application of the 4 Activites model to our feasibility study can be found in our thesis.
 
 References
 
