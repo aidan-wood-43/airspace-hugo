@@ -82,7 +82,10 @@ funfacts:
   - name: Nian Liu
     image: "/images/nian.jpg"
     designation: Web Designer / Economics Lead
-    content: ''
+    content: |-
+      I’m in my final year studying MEng Aero-Mechanical Engineering at the University of Strathclyde. My previous projects include CFD simulations on micro wind turbines and bicycle wheels.
+
+      I enjoy painting, origami and photography, sometimes baking soggy cakes.
   - name: Lewis McBride
     image: "/images/lewis.jpg"
     designation: Technical Manager / Structures Lead
