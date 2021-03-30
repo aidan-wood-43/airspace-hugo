@@ -61,16 +61,9 @@ mission_vision:
   enable: true
   tabs:
   - name: Vision
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
-      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
-      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
-      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
-      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
-      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
-      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
+    content: 'Investigating the feasibility of a BWB aircraft for long haul flights
+      from London to Shanghai by analysing the technical performances as well as economics
+      of such concept through an iterative design process. '
   - name: Mission
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
       ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
@@ -83,15 +76,8 @@ mission_vision:
       ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
       temporibus eos sequi alias hic nemo.
   - name: Approach
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
-      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
-      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
-      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
-      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
-      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
-      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
+    content: "Employing the Soft Systems Methodology (SSM) throughout the design framework
+      to better understand the inter-\x02dependencies between various design parameters
+      and choices, considering the multi-disciplinary nature of this project."
 cta:
   enable: true
