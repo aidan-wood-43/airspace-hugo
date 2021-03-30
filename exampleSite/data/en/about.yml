@@ -3,13 +3,10 @@ about:
   enable: true
   image: images/econ2-s.jpg
   title: We strive to be the best and <br> make awesome work.
-  content: 'Through the progression of each technical aspect, our final designed BWB
-    concept was able to hold 562 passengers in a 2-class configuration; up to 31.8%
-    higher volume of cargo compared to B747-8F when operate as a freighter. At full
-    passenger load, the BWB achieved up to 12.5% Direct Operating Cost (DOC) reduction
-    per nm-pax and 18% less CO2 emission compared to the Airbus A380.
+  content: |+
+    Through the progression of each technical aspect, our final designed BWB concept was able to hold 562 passengers in a 2-class configuration; up to 31.8% higher volume of cargo compared to B747-8F when operate as a freighter. Up to 9% acquisition cost reduction from the
+    A380 was achieved for the BWB; at full passenger load, the BWB achieved up to 12.5% Direct Operating Cost (DOC) reduction per nm-pax and 18% less CO2 emission compared to the Airbus A380. <br>
 
-'
   button:
     enable: true
     label: Download Our Full Report
