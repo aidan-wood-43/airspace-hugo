@@ -25,8 +25,7 @@ The wide space available also allows creative customisation for additional cater
 
 ### **1-Class**
 
-With the un-optimised single class configuration, BWB holds 604 passengers with widened seats compared to the A380. The capacity may further increased by allowing a double-deck structure.
-
-With the un-optimised single class configuration, BWB holds 604 passengers with widened seats compared to the A380. The capacity may further increased by allowing a double-deck structure.![](/images/3-single-class-layout.JPG)
+With the un-optimised single class configuration, BWB holds 604 passengers with widened seats compared to the A380. The capacity may further increased by allowing a double-deck structure.  
+![](/images/3-single-class-layout.JPG)
 
 ![](/images/proj-pass2.JPG)
