@@ -5,6 +5,9 @@ description = "Maximising carrying capacity with passenger-cargo ability"
 image = "/images/cargo.jpg"
 title = "Cargo"
 [[information]]
+info = "The available cargo volume for the cargo-passenger configuration was calculated based on the seating layout; the maximum cargo capacity when configured as a freighter was estimated."
+label = "Overview"
+[[information]]
 info = "Solidworks"
 label = "Software"
 
