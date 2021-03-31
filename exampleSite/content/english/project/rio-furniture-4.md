@@ -10,3 +10,15 @@ information:
 
 ---
 ## **Ensuring the Structural Integrity of Next Generation Aircraft**
+
+For internal structure analysis the Eppler wing was broken into an internal rib and spar structure with a thin 5mm skin. The base Eppler design was used for this as internal structural analysis began after the base Eppler wings solid analysis, before twist or taper features were implemented. Despite this, due to the marginal deviation in stress, it serves as an acceptable simplification with any deviation in results assumed to be minor.
+
+![](/images/proj-stru1.JPG)
+
+The initial iterations of mass reduction were achieved through manual means of removing sections of material from areas of the ribs in a trial and error manner.
+
+![](/images/proj-stru2.JPG)
+
+The mass of the structure has been reduced significantly by over 100 tonnes while also reducing the stress acting on the structure. The spars, having to support lighter ribs, reduce any shearing actions on the joints. Furthermore, with stress in the wing remaining under the yield limits of the chosen materials being below the 90% yield criterion, high fatigue life was ensured for the structure.
+
+![](/images/proj-stru3.JPG)
