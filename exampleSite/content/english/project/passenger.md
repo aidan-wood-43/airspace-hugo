@@ -5,6 +5,9 @@ description = "Two seating configurations bringing Economy and Business experien
 image = "/images/passenger.jpg"
 title = "Passenger"
 [[information]]
+info = "The cabin seating layout was constructed for both 1-class and 2-class configurations for determining the maximum passenger capacity to inform the Direct Operating Cost (DOC)."
+label = "Overview"
+[[information]]
 info = "Solidworks"
 label = "Software"
 
