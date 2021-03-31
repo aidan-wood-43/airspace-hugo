@@ -5,6 +5,15 @@ image: "/images/structure.jpg"
 bg_image: "/images/busiecon.JPG"
 category: Technical
 information:
+- label: Overview
+  info: "The structural analysis undertaken was aimed to assess whether the design
+    and aerody\x02namic performance were structurally feasible. Initially, the aircraft
+    was modelled as a solid body, assessing different wing designs for structural
+    characteristics in tandem with their aerodynamic performance, before taking the
+    most optimum design forward to be modelled as a rib and spar structure, optimised
+    to create an efficient design. Thereafter, creating an internal structure concept
+    for the fuselage to allow for more accurate weight estimations and basic stability
+    analysis."
 - label: Software
   info: ANSYS 17.1
 
