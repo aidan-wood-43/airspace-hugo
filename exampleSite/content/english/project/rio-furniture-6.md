@@ -5,6 +5,12 @@ image: "/images/material.jpg"
 bg_image: "/images/busiecon.JPG"
 category: Technical
 information:
+- label: Overview
+  info: "In addition to structural design and analysis of the BWB, a preliminary materials
+    selection study using Ashby’s method was undertaken for a limited number of key
+    structural ele\x02ments. These included the wing spars, wing skin, fuselage frame,
+    and inner fuselage skin. Performing materials selection aimed to ensure the structural
+    design was feasible in terms of existing aerospace materials."
 - label: Tools
   info: Granta Edupack
 
