@@ -5,6 +5,13 @@ image: "/images/prop.jpg"
 bg_image: "/images/busiecon.JPG"
 category: Technical
 information:
+- label: Overview
+  info: Propulsion requirements were outlined through comparison to A380 performance
+    and through an iterative cycle based on basic thrust equations. A weight estimation
+    method was also constructed in order to provide a more accurate estimate to be
+    used in design calculations. Subsequently, engine selection for the required calculated
+    parameters was undertaken and the benefits of various engines placements were
+    explored.
 - label: Tools
   info: Civil turbojet/turbofan database, MATLAB
 
