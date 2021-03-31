@@ -16,3 +16,5 @@ The BWB was found to hold up to 31.8% higher capacity compared to B747-8F. 13.6%
 ![](/images/proj-carg1.JPG)
 
 ![](/images/3-cargo-layout-a.JPG)
+
+Due to the volatility of the aviation industry, the passenger carrying market may subject to stall in events such as a pandemic. For this reason, passenger aircraft may be necessary to quickly adapt to market change; hence the passenger-cargo ability was also explored based on EASA regulation. Total loading volume of the BWB is 208.2 cubic meters with seats in place.
