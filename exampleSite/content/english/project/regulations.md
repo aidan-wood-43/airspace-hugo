@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/busiecon.JPG"
 category = "Regulation"
-description = "Ensuring the certification of airworthiness"
+description = "Ensuring the certification of airworthiness and safety of passengers"
 image = "/images/regulation.jpg"
 title = "Regulations"
 [[information]]
