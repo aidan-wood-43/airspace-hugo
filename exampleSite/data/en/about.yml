@@ -14,6 +14,9 @@ about:
     label: Download Our Full Report
     link: "/images/group-o-final-group-project-submission.pdf"
   funfacts:
+  - icon: ion-ios-book-outline
+    name: Research Aspects
+    count: "10"
   - icon: ion-ios-body-outline
     name: Team Members
     count: "6"
