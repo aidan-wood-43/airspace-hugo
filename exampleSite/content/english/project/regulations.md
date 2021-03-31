@@ -5,13 +5,15 @@ description = "Ensuring the certification of airworthiness"
 image = "/images/regulation.jpg"
 title = "Regulations"
 [[information]]
-info = "Given the current location of the team in Scotland, the governing body for aircraft worthiness and regulation is the European Aviation Safety Agency (EASA), and therefore the regulations from such body were adhered to.  EASA provide documents and regulations for a wide variety of air transport and their surrounding factors. Given the size and purpose of our BWB aircraft, the appropriate legislation to follow was the Certification Specifications for Large Aeroplanes (CS-25). Besides dictating various structural aspects of the design, strict aherence was applied when considering practical factors such as in an emergency evacuation, interior layout and cargo configuration. Additional EASA documentation, (Transport of Cargo in Passenger Compartment - Exemptions Under Article 71(1) of Regulation (EU) 2018/1139), was consulted when considering the cargo-passenger configuration which many aircraft have utilised during the current pandemic.  "
+info = "Given the current location of the team in Scotland, the governing body for aircraft worthiness and regulation is the European Aviation Safety Agency (EASA), and therefore the regulations from such body were adhered to.  EASA provide documents and regulations for a wide variety of air transport and their surrounding factors. Given the size and purpose of our BWB aircraft, the appropriate legislation to follow was the Certification Specifications for Large Aeroplanes (CS-25). Besides dictating various structural aspects of the design, strict aherence was applied when considering practical factors such as in an emergency egress, interior layout and cargo configuration. Additional EASA documentation, (Transport of Cargo in Passenger Compartment - Exemptions Under Article 71(1) of Regulation (EU) 2018/1139), was consulted when considering the cargo-passenger configuration which many aircraft have utilised during the current pandemic.  "
 label = "Overview"
 
 +++
 ## **Abiding by EASA CS-25, Ensuring the Industry Standards are Met**
 
-### **Emergency Evacuation**
+The EASA CS-25 is a comprehensive document comprising of two books: Book 1 - Airworthiness Code and Book 2 - Acceptable Means of Compliance (AMC). As such, much of the criteria contained was outwith the scope of the project.  However, strict adherence to the regulations was applied when relevant in the design process to ensure compliance and consideration towards certification, should the design be implemented. 
+
+### **Emergency Egress**
 
 #### A380
 
