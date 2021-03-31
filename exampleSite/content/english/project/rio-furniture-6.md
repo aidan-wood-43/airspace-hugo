@@ -11,7 +11,7 @@ information:
     structural ele\x02ments. These included the wing spars, wing skin, fuselage frame,
     and inner fuselage skin. Performing materials selection aimed to ensure the structural
     design was feasible in terms of existing aerospace materials."
-- label: Tools
+- label: Software
   info: Granta Edupack
 
 ---
