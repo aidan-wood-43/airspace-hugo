@@ -9,7 +9,7 @@ information:
   info: weeArchie HPC, STAR CCM+
 
 ---
-## Breaking the Limitation of Conventional Aerodynamic Properties
+## **Breaking the Limitation of Conventional Aerodynamic Properties**
 
 Through CFD analysis using STAR CCM+, the lift and drag properties of the BWB aircraft were investigated.
 
