@@ -5,6 +5,14 @@ image: "/images/econ.jpg"
 bg_image: "/images/busiecon.JPG"
 category: Economics
 information:
+- label: Overview
+  info: Based on the aircraft characteristics of each design iteration, the development
+    cost and minimum number of sold aircraft units for break-even were determined
+    using the Eastlake 17model, the DOC per nautical mile per passenger for both long
+    and short haul flights at low, normal, and high fuel prices was investigated using
+    the AEA model. Both the development cost and DOC results were compared to the
+    counterpart aircraft A380 in order to determine the economic viability of the
+    final BWB design.
 - label: Software
   info: MATLAB
 
