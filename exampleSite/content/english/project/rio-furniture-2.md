@@ -5,6 +5,14 @@ image: "/images/aero.jpg"
 bg_image: "/images/busiecon.JPG"
 category: Technical
 information:
+- label: Overview
+  info: "The main aim was to iterate a BWB aerodynamic model in order to assess its
+    performance against current conventional air\x02craft.Through CFD analysis of
+    the BWB airframe, performance this performance could be measured. This would be
+    completed in conjunction with other departments to ensure any design decision
+    made in the Aerodynamics department would not negatively impact the performance
+    of the others, and where they may do so, assess the trade-off with the other department
+    to deliver a compromise and feasible solution."
 - label: Tools
   info: weeArchie HPC, STAR CCM+
 
