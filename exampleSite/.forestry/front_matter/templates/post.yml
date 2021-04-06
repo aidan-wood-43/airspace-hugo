@@ -33,6 +33,7 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/english/blog/modelling-emergency-passenger-egress.md
 - exampleSite/content/english/blog/soft-systems-methodology.md
 - exampleSite/content/english/blog/soft-systems-methodology.md
 - exampleSite/content/english/blog/systems-thinking-difference-between-hard-and-soft-systems.md
